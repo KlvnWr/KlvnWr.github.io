@@ -104,12 +104,13 @@ document.addEventListener('DOMContentLoaded', () => {
       tech: ["Figma", "UX/UI Design", "Prototipagem"],
       image: "/portfolio-figma.png"
     },
-    ecommerce: {
-      title: "E-commerce Mobile",
+    calculadora: {
+      title: "Calculadora Ionic",
       semester: "5º Semestre",
-      description: "Aplicativo mobile de e-commerce construído para simular um fluxo completo de compras, incluindo catálogo de produtos e gerenciamento de carrinho.",
-      knowledge: "Desenvolvimento híbrido/mobile, estruturação de componentes reutilizáveis, gerenciamento de estado da aplicação e consumo de dados para interfaces móveis.",
-      tech: ["Ionic", "Angular", "TypeScript"]
+      description: "Aplicativo mobile de calculadora desenvolvido utilizando o framework Ionic. O projeto oferece funcionalidades clássicas de calculadora, com uma interface amigável e adaptável a diferentes tamanhos de tela.",
+      knowledge: "Desenvolvimento mobile híbrido, criação de interfaces com componentes do Ionic, gerenciamento de estado e implementação de lógica de cálculos matemáticos com TypeScript.",
+      tech: ["Ionic", "CSS", "TypeScript"],
+      image: "/calculadora.png"
     },
     nutridata: {
       title: "NutriData",
